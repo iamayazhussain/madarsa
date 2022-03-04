@@ -3479,7 +3479,7 @@ blockquote p i {
   position: relative;
   width: 35px;
 }
-.color-picker .color {background-color: #ff9822;}
+.color-picker .color {background-color: #A1228D;}
 .color-picker .color2 {background-color: #b57c00;}
 .color-picker .color3 {background-color: #a0ce4e;}
 .color-picker .color4 {background-color: #f64243;}
@@ -3519,7 +3519,7 @@ nav > div > ul li > a:after,
 .rspn-mnu-cls:hover,
 .preloader
 {
-  background-color: #ff9822;
+  background-color: #A1228D;
 }
 
 
@@ -3603,7 +3603,7 @@ header.style1 .scl1 > a:focus,
 .rspn-cnt > span a:hover,
 .rspn-cnt > span a:focus
 {
-  color: #ff9822;
+  color: #A1228D;
 }
 
 /*===== Border Color =====*/
@@ -3618,13 +3618,13 @@ header.style1 .scl1 > a:focus,
 .product-detail-tabs > ul li a.nav-link:focus,
 .product-detail-tabs > ul li a.nav-link.active
 {
-  border-color: #ff9822;
+  border-color: #A1228D;
 }
 
 /*===== Border Top Color =====*/ 
 .testi-desc
 {
-  border-top-color: #ff9822;
+  border-top-color: #A1228D;
 }
 
 
