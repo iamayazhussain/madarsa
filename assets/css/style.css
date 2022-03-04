@@ -58,7 +58,6 @@
 
 /*===== General Styling =====*/
 html, 
-body {overflow-x:hidden;}
 body {
   float: left;
   font-family: lato;
