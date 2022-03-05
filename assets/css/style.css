@@ -3217,7 +3217,7 @@ blockquote p i {
 }
 /*===== Page Loader =====*/
 .preloader {
-  background: #0b52e4;
+  background: #9e228a !important;
   position: fixed;
   width: 100%;
   height: 100%;
